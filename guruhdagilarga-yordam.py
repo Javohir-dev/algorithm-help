@@ -1,3 +1,21 @@
+"""
+1 - Topshiriq:
+matn = input()
+
+Misol:
+Assalomu aleykum
+natija: 2 ta so'z
+
+2 - Topshiriq:
+matn = input()
+
+misol:
+InTerneT
+natija: InterneT
+
+Khamidullaev Javohir:
+Man ikkalasini ham bitta functionda hal qilib qo'ya qoldim:)
+"""
 def example():
     rotations = 0
     text = input("Text kiriting: ")
